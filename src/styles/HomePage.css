@@ -1,0 +1,19 @@
+.home-page {
+  padding: 20px 0;
+}
+
+.search-results {
+  margin-bottom: 18px;
+  color: #555;
+  font-size: 1rem;
+}
+
+.no-results {
+  text-align: center;
+  padding: 60px 20px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+  color: #666;
+  font-size: 1.1rem;
+}
